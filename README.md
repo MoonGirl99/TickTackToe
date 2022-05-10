@@ -1,2 +1,2 @@
-# TickTackToe
-this is a PYTHON script which run a ticktacktoe game 
+# Tic-Tac-Toe
+Tic-Tac-Toe Game in Python 
